@@ -1,16 +1,31 @@
-## Hi there 👋
+## <img src="assets/vario_move.gif" alt="Vario Move" width="50" height="50"> Hi there 👋
 
-<!--
-**vyomshah05/vyomshah05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science undergraduate at UC Irvine with a strong focus on software engineering, machine learning, and systems. I’ve worked across backend development, distributed systems, and applied AI, building production-ready software through internships and research.
 
-Here are some ideas to get you started:
+My interests include scalable system design, ML-driven applications, and building tools that turn complex data into reliable, real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend Development
+- ![C](assets/skills/C.png)
+- ![C++](assets/skills/C++.png)
+- ![Python](assets/skills/Python.png)
+- ![JS](assets/skills/JS.png)
+- ![TS](assets/skills/TS.svg)
+
+### Frontend Development
+- ![React](assets/skills/React.png)
+- ![HTML](assets/skills/HTML.png)
+- ![CSS](assets/skills/CSS.png)
+
+### Cloud Infrastructure/DevOps Tools
+- ![AWS](assets/skills/AWS.png)
+- ![GCP](assets/skills/GCP.png)
+- ![Docker](assets/skills/Docker.png)
+- ![Kubernetes](assets/skills/Kubernetes.png)
+- ![Grafana](assets/skills/Grafana.png)
+- ![Prometheus](assets/skills/Prometheus.png)
+
+### Personal Portfolio
+[https://vyomshah05.github.io/](https://vyomshah05.github.io/)
+
+### LinkedIn
+[https://linkedin.com/in/vyomshah1](https://linkedin.com/in/vyomshah1)
