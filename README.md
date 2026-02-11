@@ -5,13 +5,13 @@ I’m a Computer Science undergraduate at UC Irvine with a strong focus on softw
 My interests include scalable system design, ML-driven applications, and building tools that turn complex data into reliable, real-world solutions.
 
 ### Backend Development
-<img src="assets/skills/C.png" width="50" height="50" alt="C"> <img src="assets/skills/C++.png" width="50" height="50" alt="C++"> <img src="assets/skills/Python.png" width="50" height="50" alt="Python"> <img src="assets/skills/JS.png" width="50" height="50" alt="JS"> <img src="assets/skills/TS.svg" width="50" height="50" alt="TS">
+<img src="assets/skills/C.png" height="50" alt="C"> <img src="assets/skills/C++.png" height="50" alt="C++"> <img src="assets/skills/Python.png" height="50" alt="Python"> <img src="assets/skills/JS.png" height="50" alt="JS"> <img src="assets/skills/TS.svg" height="50" alt="TS">
 
 ### Frontend Development
-<img src="assets/skills/React.png" width="50" height="50" alt="React"> <img src="assets/skills/HTML.png" width="50" height="50" alt="HTML"> <img src="assets/skills/CSS.png" width="50" height="50" alt="CSS">
+<img src="assets/skills/React.png" height="50" alt="React"> <img src="assets/skills/HTML.png" height="50" alt="HTML"> <img src="assets/skills/CSS.png" height="50" alt="CSS">
 
 ### Cloud Infrastructure/DevOps Tools
-<img src="assets/skills/AWS.png" width="50" height="50" alt="AWS"> <img src="assets/skills/GCP.png" height="50" alt="GCP"> <img src="assets/skills/Docker.png" height="50" alt="Docker"> <img src="assets/skills/Kubernetes.png" width="50" height="50" alt="Kubernetes"> <img src="assets/skills/Grafana.png" width="50" height="50" alt="Grafana"> <img src="assets/skills/Prometheus.png" width="50" height="50" alt="Prometheus">
+<img src="assets/skills/AWS.png" height="50" alt="AWS"> <img src="assets/skills/GCP.png" height="50" alt="GCP"> <img src="assets/skills/Docker.png" height="50" alt="Docker"> <img src="assets/skills/Kubernetes.png" height="50" alt="Kubernetes"> <img src="assets/skills/Grafana.png" height="50" alt="Grafana"> <img src="assets/skills/Prometheus.png" height="50" alt="Prometheus">
 
 ### Personal Portfolio
 [https://vyomshah05.github.io/](https://vyomshah05.github.io/)
