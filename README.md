@@ -5,24 +5,13 @@ I’m a Computer Science undergraduate at UC Irvine with a strong focus on softw
 My interests include scalable system design, ML-driven applications, and building tools that turn complex data into reliable, real-world solutions.
 
 ### Backend Development
-- ![C](assets/skills/C.png)
-- ![C++](assets/skills/C++.png)
-- ![Python](assets/skills/Python.png)
-- ![JS](assets/skills/JS.png)
-- ![TS](assets/skills/TS.svg)
+<img src="assets/skills/C.png" width="50" height="50" alt="C"> <img src="assets/skills/C++.png" width="50" height="50" alt="C++"> <img src="assets/skills/Python.png" width="50" height="50" alt="Python"> <img src="assets/skills/JS.png" width="50" height="50" alt="JS"> <img src="assets/skills/TS.svg" width="50" height="50" alt="TS">
 
 ### Frontend Development
-- ![React](assets/skills/React.png)
-- ![HTML](assets/skills/HTML.png)
-- ![CSS](assets/skills/CSS.png)
+<img src="assets/skills/React.png" width="50" height="50" alt="React"> <img src="assets/skills/HTML.png" width="50" height="50" alt="HTML"> <img src="assets/skills/CSS.png" width="50" height="50" alt="CSS">
 
 ### Cloud Infrastructure/DevOps Tools
-- ![AWS](assets/skills/AWS.png)
-- ![GCP](assets/skills/GCP.png)
-- ![Docker](assets/skills/Docker.png)
-- ![Kubernetes](assets/skills/Kubernetes.png)
-- ![Grafana](assets/skills/Grafana.png)
-- ![Prometheus](assets/skills/Prometheus.png)
+<img src="assets/skills/AWS.png" width="50" height="50" alt="AWS"> <img src="assets/skills/GCP.png" width="50" height="50" alt="GCP"> <img src="assets/skills/Docker.png" width="50" height="50" alt="Docker"> <img src="assets/skills/Kubernetes.png" width="50" height="50" alt="Kubernetes"> <img src="assets/skills/Grafana.png" width="50" height="50" alt="Grafana"> <img src="assets/skills/Prometheus.png" width="50" height="50" alt="Prometheus">
 
 ### Personal Portfolio
 [https://vyomshah05.github.io/](https://vyomshah05.github.io/)
