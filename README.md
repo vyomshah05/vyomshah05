@@ -11,7 +11,7 @@ My interests include scalable system design, ML-driven applications, and buildin
 <img src="assets/skills/React.png" width="50" height="50" alt="React"> <img src="assets/skills/HTML.png" width="50" height="50" alt="HTML"> <img src="assets/skills/CSS.png" width="50" height="50" alt="CSS">
 
 ### Cloud Infrastructure/DevOps Tools
-<img src="assets/skills/AWS.png" width="50" height="50" alt="AWS"> <img src="assets/skills/GCP.png" width="50" height="50" alt="GCP"> <img src="assets/skills/Docker.png" width="50" height="50" alt="Docker"> <img src="assets/skills/Kubernetes.png" width="50" height="50" alt="Kubernetes"> <img src="assets/skills/Grafana.png" width="50" height="50" alt="Grafana"> <img src="assets/skills/Prometheus.png" width="50" height="50" alt="Prometheus">
+<img src="assets/skills/AWS.png" width="50" height="50" alt="AWS"> <img src="assets/skills/GCP.png" height="50" alt="GCP"> <img src="assets/skills/Docker.png" height="50" alt="Docker"> <img src="assets/skills/Kubernetes.png" width="50" height="50" alt="Kubernetes"> <img src="assets/skills/Grafana.png" width="50" height="50" alt="Grafana"> <img src="assets/skills/Prometheus.png" width="50" height="50" alt="Prometheus">
 
 ### Personal Portfolio
 [https://vyomshah05.github.io/](https://vyomshah05.github.io/)
